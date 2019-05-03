@@ -1,0 +1,6 @@
+1. git clone url
+2. url After adding some changes (git add. / git add fileName_1 etc)
+3.After status (git status) -> confirm green/ red
+4.git commit -m "Added my changes :-)"
+5. git push
+6. pull
